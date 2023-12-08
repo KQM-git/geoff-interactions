@@ -4,7 +4,7 @@ embeds:
     image: 
       url: ${INFOGRAPHICS.SILVER_WOLF}
     thumbnail:
-      url: ${ICON.CHARACTER_SILVER WOLF}
+      url: ${ICON.CHARACTER_SILVER_WOLF}
     description: |-
       ★★★★★
       *Quantum Nihility Support*
