@@ -1,4 +1,0 @@
-interaction: tcl/enemyshields
-description: TCL - Enemy Shields
-match: ${ TRIGGER_PREFIX }enemyshield(s)?(?:\s|$)
-ignoreCase: true

@@ -1,4 +1,0 @@
-interaction: faq/resonance
-description: Elemental Resonance
-match: ${ TRIGGER_PREFIX }resonance(?:\s|$)
-ignoreCase: true

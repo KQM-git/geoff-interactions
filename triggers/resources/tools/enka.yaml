@@ -1,0 +1,4 @@
+interaction: tools/enka
+description: Enka.Network
+match: ${ TRIGGER_PREFIX }enka(?:\s|$)
+ignoreCase: true

@@ -1,4 +1,0 @@
-interaction: characters/hydro/nilou/main
-description: "Opens KQM's resources on Nilou"
-match: ${ TRIGGER_PREFIX }nilou(?:\s|$)
-ignoreCase: true

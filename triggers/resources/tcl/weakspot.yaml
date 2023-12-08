@@ -1,4 +1,0 @@
-interaction: tcl/weakspot
-description: Enemy Weak Spot List & Bow Passive Proc Compendium
-match: ${ TRIGGER_PREFIX }weakspot(s)?(?:\s|$)
-ignoreCase: true

@@ -1,4 +1,0 @@
-interaction: faq/yoimiyavape
-description: Yoimiya vape pattern explanation
-match: ${ TRIGGER_PREFIX }yoi(?:miya)?vape?(?:\s|$)
-ignoreCase: true

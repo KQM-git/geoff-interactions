@@ -1,4 +1,0 @@
-interaction: tcl/glossary
-description: TCL - Glossary
-match: ${ TRIGGER_PREFIX }glossary(?:\s|$)
-ignoreCase: true

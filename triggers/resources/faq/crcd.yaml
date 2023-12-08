@@ -1,4 +1,0 @@
-interaction: faq/crcd
-description: CRIT Stats Info
-match: ${ TRIGGER_PREFIX }crcd(?:\s|$)
-ignoreCase: true

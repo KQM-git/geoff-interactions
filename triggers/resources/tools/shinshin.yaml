@@ -1,4 +1,0 @@
-interaction: tools/shinshin
-description: Enka.Network
-match: ${ TRIGGER_PREFIX }(?:shinshin|enka)(?:\s|$)
-ignoreCase: true

@@ -1,4 +1,0 @@
-interaction: characters/anemo/venti/main
-description: "Opens KQM's resources on Venti"
-match: ${ TRIGGER_PREFIX }venti(?:\s|$)
-ignoreCase: true

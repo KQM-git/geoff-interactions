@@ -1,4 +1,0 @@
-interaction: tcl/icd
-description: TCL - Internal Cooldown
-match: ${ TRIGGER_PREFIX }(?:icd|internal cooldown)(?:\s|$)
-ignoreCase: true

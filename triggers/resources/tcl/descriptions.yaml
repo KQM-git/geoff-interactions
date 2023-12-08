@@ -1,4 +1,0 @@
-interaction: tcl/descriptions
-description: Description Database
-match: ${ TRIGGER_PREFIX }(?:desc|descriptions?)(?:\s|$)
-ignoreCase: true

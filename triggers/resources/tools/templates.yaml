@@ -1,4 +1,0 @@
-interaction: tools/templates
-description: Collection of public DPS calculation templates
-match: ${TRIGGER_PREFIX}(?:(calc)?templates?|calculators?|sheets)(?:\s|$)
-ignoreCase: true

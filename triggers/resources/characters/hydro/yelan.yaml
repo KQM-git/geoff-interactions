@@ -1,4 +1,0 @@
-interaction: characters/hydro/yelan/main
-description: "Opens KQM's resources on Yelan"
-match: ${ TRIGGER_PREFIX }yelan(?:\s|$)
-ignoreCase: true

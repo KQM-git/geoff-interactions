@@ -1,4 +1,0 @@
-interaction: tcl/res
-description: Resistances Compendium
-match: ${ TRIGGER_PREFIX }res(istance)?(s)?(?:\s|$)
-ignoreCase: true

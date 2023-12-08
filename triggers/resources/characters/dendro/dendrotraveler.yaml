@@ -1,4 +1,0 @@
-interaction: characters/dendro/dendrotraveler/main
-description: "Opens KQM's resources on Dendro Traveler"
-match: ${ TRIGGER_PREFIX }(?:dmc|dendro\s?traveler)(?:\s|$)
-ignoreCase: true

@@ -1,4 +1,0 @@
-interaction: tools/gachacalc
-description: Gacha Calculator by Hu Tao Bot
-match: ${ TRIGGER_PREFIX }gachacalc(?:\s|$)
-ignoreCase: true

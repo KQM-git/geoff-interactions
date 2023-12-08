@@ -1,4 +1,0 @@
-interaction: faq/usage
-description: Why Usage Rate is Useless Data
-match: ${ TRIGGER_PREFIX }usage(?:\s|$)
-ignoreCase: true

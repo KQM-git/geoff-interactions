@@ -1,4 +1,0 @@
-interaction: faq/dendro2
-description: Bloom Mechanics
-match: ${ TRIGGER_PREFIX }bloom(?:\s|$)
-ignoreCase: true

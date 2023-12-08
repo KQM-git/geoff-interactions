@@ -1,4 +1,0 @@
-interaction: characters/electro/shinobu/main
-description: "Opens KQM's resources on Kuki Shinobu"
-match: ${ TRIGGER_PREFIX }(?:kuki|shinobu)(?:\s|$)
-ignoreCase: true

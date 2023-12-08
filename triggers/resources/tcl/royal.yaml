@@ -1,4 +1,0 @@
-interaction: tcl/royal
-description: Mathematical Analysis of Royal Weapons' Effective CRIT Rate
-match: ${ TRIGGER_PREFIX }royal(?:\s|$)
-ignoreCase: true

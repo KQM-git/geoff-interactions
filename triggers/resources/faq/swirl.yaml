@@ -1,4 +1,0 @@
-interaction: faq/swirl
-description: Swirl Guide by terraflop
-match: ${ TRIGGER_PREFIX }swirl(?:\s|$)
-ignoreCase: true

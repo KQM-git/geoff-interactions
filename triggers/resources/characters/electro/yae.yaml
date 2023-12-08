@@ -1,4 +1,0 @@
-interaction: characters/electro/yae/main
-description: "Opens KQM's resources on Yae Miko"
-match: ${ TRIGGER_PREFIX }yae(?:\s|$)
-ignoreCase: true

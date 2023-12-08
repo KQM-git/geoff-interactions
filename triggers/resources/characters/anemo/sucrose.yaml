@@ -1,4 +1,0 @@
-interaction: characters/anemo/sucrose/main
-description: "Opens KQM's resources on Sucrose"
-match: ${ TRIGGER_PREFIX }sucrose(?:\s|$)
-ignoreCase: true

@@ -1,4 +1,0 @@
-interaction: characters/cryo/ganyu/melt_build
-description: "Opens KQM's resources on Melt Ganyu's Build"
-match: ${ TRIGGER_PREFIX }ganyu melt(?:\s|$)
-ignoreCase: true

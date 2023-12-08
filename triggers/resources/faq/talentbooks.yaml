@@ -1,4 +1,0 @@
-interaction: faq/talentbooks
-description: Talent Books
-match: ${ TRIGGER_PREFIX }(talent)?books(?:\s|$)
-ignoreCase: true

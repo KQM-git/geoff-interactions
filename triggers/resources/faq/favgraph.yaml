@@ -1,4 +1,0 @@
-interaction: faq/favgraph
-description: Favonius Proc Rate Graph
-match: ${ TRIGGER_PREFIX }favgraph(?:\s|$)
-ignoreCase: true

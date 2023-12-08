@@ -1,4 +1,0 @@
-interaction: faq/teambuild
-description: Team Building Guide
-match: ${ TRIGGER_PREFIX }teambuild(?:ing)?(?:\s|$)
-ignoreCase: true

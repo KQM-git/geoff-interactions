@@ -1,4 +1,0 @@
-interaction: faq/keqcalc
-description: 3bood's Keqing Calculator
-match: ${ TRIGGER_PREFIX }keqcalc(?:\s|$)
-ignoreCase: true

@@ -1,4 +1,0 @@
-interaction: characters/cryo/qiqi/main
-description: "Opens KQM's resources on Qiqi"
-match: ${ TRIGGER_PREFIX }qiqi(?:\s|$)
-ignoreCase: true

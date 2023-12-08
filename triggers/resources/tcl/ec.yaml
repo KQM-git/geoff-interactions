@@ -1,4 +1,0 @@
-interaction: tcl/ec
-description: TCL - Electro-Charge
-match: ${ TRIGGER_PREFIX }(?:electro-?charge|ec)(?:\s|$)
-ignoreCase: true

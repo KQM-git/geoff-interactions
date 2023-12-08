@@ -1,4 +1,0 @@
-interaction: characters/electro/razor/main
-description: "Opens KQM's resources on Razor"
-match: ${ TRIGGER_PREFIX }razor(?:\s|$)
-ignoreCase: true

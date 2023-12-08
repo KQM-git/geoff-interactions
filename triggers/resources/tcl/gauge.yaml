@@ -1,4 +1,0 @@
-interaction: tcl/egt
-description: TCL - EGT page
-match: ${ TRIGGER_PREFIX }gauge(s)?(?:\s|$)
-ignoreCase: true

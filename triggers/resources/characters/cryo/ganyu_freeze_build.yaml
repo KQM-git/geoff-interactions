@@ -1,4 +1,0 @@
-interaction: characters/cryo/ganyu/freeze_build
-description: "Opens KQM's resources on Freeze Ganyu's Build"
-match: ${ TRIGGER_PREFIX }ganyu freeze(?:\s|$)
-ignoreCase: true

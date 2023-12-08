@@ -7,7 +7,7 @@ permissions:
     whitelist: ${ [ ROLES.PILLAR_STAFF, ...getValuesRecursive(ROLES.ADMIN) ] }
 
 activityStatus:
-  message: Genshin Impact with you!
+  message: Honkai: Star Rail with you!
 
   # PLAYING = 0
   # STREAMING = 1

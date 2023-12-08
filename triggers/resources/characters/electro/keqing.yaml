@@ -1,4 +1,0 @@
-interaction: characters/electro/keqing/main
-description: "Opens KQM's resources on Keqing"
-match: ${ TRIGGER_PREFIX }keqing(?:\s|$)
-ignoreCase: true

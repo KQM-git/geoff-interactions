@@ -10,37 +10,37 @@ embeds:
 # Additional links that should be displayed in the initial message.
 
 options: 
-  - label: Anemo
-    value: characters/anemo/anemo_index
-    description: Guides for Anemo characters
-    emoji: ${ EMOJIS.ELEMENT_ANEMO }
+  - label: Preservation
+    value: characters/index_preservation
+    description: Guides for Fire characters
+    emoji: ${ EMOJIS.PATH_PRESERVATION }
 
-  - label: Cryo
-    value: characters/cryo/cryo_index
-    description: Guides for Cryo characters
-    emoji: ${ EMOJIS.ELEMENT_CRYO }
+  - label: The Hunt
+    value: characters/index_hunt
+    description: Guides for Hunt characters
+    emoji: ${ EMOJIS.PATH_HUNT }
 
-  - label: Dendro
-    value: characters/dendro/dendro_index
-    description: Guides for Dendro characters
-    emoji: ${ EMOJIS.ELEMENT_DENDRO }
+  - label: Erudition
+    value: characters/index_erudition
+    description: Guides for Erudition characters
+    emoji: ${ EMOJIS.PATH_ERUDITION }
 
-  - label: Electro
-    value: characters/electro/electro_index
-    description: Guides for Electro characters
-    emoji: ${ EMOJIS.ELEMENT_ELECTRO }
+  - label: Nihility
+    value: characters/electro/index_nihility
+    description: Guides for Nihility characters
+    emoji: ${ EMOJIS.PATH_NIHILITY }
 
-  - label: Geo
-    value: characters/geo/geo_index
-    description: Guides for Geo characters
-    emoji: ${ EMOJIS.ELEMENT_GEO }
+  - label: Harmony
+    value: characters/geo/index_harmony
+    description: Guides for Harmony characters
+    emoji: ${ EMOJIS.PATH_HARMONY }
 
-  - label: Hydro
-    value: characters/hydro/hydro_index
-    description: Guides for Hydro characters
-    emoji: ${ EMOJIS.ELEMENT_HYDRO }
+  - label: Destruction
+    value: characters/hydro/index_destruction
+    description: Guides for Destruction characters
+    emoji: ${ EMOJIS.PATH_DESTRUCTION }
 
-  - label: Pyro
-    value: characters/pyro/pyro_index
-    description: Guides for Pyro characters
-    emoji: ${ EMOJIS.ELEMENT_PYRO }
+  - label: Abundance
+    value: characters/pyro/index_abundance
+    description: Guides for Abundance characters
+    emoji: ${ EMOJIS.PATH_ABUNDANCE }

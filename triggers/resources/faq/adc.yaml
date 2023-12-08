@@ -1,4 +1,0 @@
-interaction: faq/adc
-description: Attack / Damage / Crit
-match: ${ TRIGGER_PREFIX }adc(?:\s|$)
-ignoreCase: true

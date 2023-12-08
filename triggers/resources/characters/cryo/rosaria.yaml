@@ -1,4 +1,0 @@
-interaction: characters/cryo/rosaria/main
-description: "Opens KQM's resources on Rosaria"
-match: ${ TRIGGER_PREFIX }rosaria(?:\s|$)
-ignoreCase: true

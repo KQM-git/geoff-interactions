@@ -1,4 +1,0 @@
-interaction: characters/electro/dori/main
-description: "Opens KQM's resources on Dori"
-match: ${ TRIGGER_PREFIX }dori(?:\s|$)
-ignoreCase: true

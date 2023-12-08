@@ -1,4 +1,0 @@
-interaction: characters/anemo/heizou/main
-description: "Opens KQM's resources on Heizou"
-match: ${ TRIGGER_PREFIX }heizou(?:\s|$)
-ignoreCase: true

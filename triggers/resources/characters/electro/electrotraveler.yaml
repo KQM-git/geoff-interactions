@@ -1,4 +1,0 @@
-interaction: characters/electro/electrotraveler/main
-description: "Opens KQM's resources on Electro Traveler"
-match: ${ TRIGGER_PREFIX }(?:electrotravell?er|emc)(?:\s|$)
-ignoreCase: true

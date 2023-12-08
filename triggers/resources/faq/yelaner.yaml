@@ -1,4 +1,0 @@
-interaction: faq/yelaner
-description: Yelan ER Requirements
-match: ${ TRIGGER_PREFIX }yelaner(?:\s|$)
-ignoreCase: true

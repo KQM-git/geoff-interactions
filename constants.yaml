@@ -1,196 +1,55 @@
 # Define reusable constants here that are used in interactions
 
-TRIGGER_PREFIX: ^k!
+TRIGGER_PREFIX: ^h!
 
 ROLES:
   ADMIN:
-    ADMIN: "953160889241047080"
-    KEQINGS_KEY: "810410368622395392"
+    TOP_ROLE: "1110000642208047166"   # Svarog
+    ADMIN: "1089339955509215273"      # Aeon
+    ADMIN_KEY: "1089368868306288691"
     MODERATOR: "945455972183322674"   # Test Server Role
-  PILLAR_HEAD: "820962449268277269"
-  PILLAR_VICE_HEAD: "822707646393745409"
-  PILLAR_STAFF: "953164120952283206"
+  TEAM_LEAD: "1101674470801952908"
+  STAFF: "1089341501764542484"
+  EMOTE_PERMS: "1096608201690054716"
+  # Mods
+  MOD_LEAD: "1090848045404524644"
+  MOD: "1089344082809204796"
   # General
-  VERIFIED: "763583891440533524"    # Kitten
+  MUTED: "1102398228470714488"
+  VERIFIED: "1089343943336005724"    # Station Passenger
 
 KEQING_ID: "952065598513377371"
   
 COLORS:
   WHITE: 0xFFFFFF
   KQM_PURPLE: 0xc64dff
-  ELECTRO_PURPLE: 0xae80bf
-  HYDRO_BLUE: 0x1665f7
-  PYRO_ORANGE: 0xf76c16
-  GEO_YELLOW: 0xf7bb16
-  ANEMO_GREEN: 0x69c99e
-  CRYO_BLUE: 0x8bcce8
-  DENDRO_GREEN: 0x86c726
+  LIGHTNING_PURPLE: 0xC55FDA
+  PHYSICAL_GREY: 0xC5C5C5
+  FIRE_RED: 0xEE493F
+  QUANTUM_BLURPLE: 0x6C62CC
+  IMAGINARY_YELLOW: 0xF5EA5F
+  ICE_BLUE: 0x4AA8DE
+  WIND_GREEN: 0x5ECD93
 
 IMAGES:
   KQM_LOGO: "https://i2.wp.com/keqingmains.com/wp-content/uploads/2021/10/kqm-logo-full-e1633177025729.png"
 
 INFOGRAPHICS:
-  ALOY_MELT_1: "https://keqingmains.com/wp-content/uploads/2023/04/Melt_DPS_Aloy_1.png"
-  ALOY_SUPPORT_1: "https://keqingmains.com/wp-content/uploads/2023/04/Support_Aloy_1.png"
-  ALOY_2: "https://keqingmains.com/wp-content/uploads/2023/04/Support__Melt_DPS_Aloy_2.png"
-  CANDACE_1: "https://keqingmains.com/wp-content/uploads/2023/02/Candace_1.png"
-  CANDACE_2: "https://keqingmains.com/wp-content/uploads/2023/02/Candace_2.png"
-  CANDACE_3: "https://keqingmains.com/wp-content/uploads/2023/02/Candace_3.png"
-  CYNO_1: "https://keqingmains.com/wp-content/uploads/2023/02/cyno_pg1-min.png"
-  CYNO_2: "https://keqingmains.com/wp-content/uploads/2023/02/cyno_pg2-min.png"
-  DILUC_1: "https://keqingmains.com/wp-content/uploads/2023/04/Diluc_1.png"
-  DILUC_2: "https://keqingmains.com/wp-content/uploads/2023/04/Diluc_2.png"
-  FISCHL_1: "https://keqingmains.com/wp-content/uploads/2022/09/Fischl-1.png"
-  FISCHL_2: "https://keqingmains.com/wp-content/uploads/2022/09/Fischl-2.png"
-  GANYU_FREEZE_1: "https://media.discordapp.net/attachments/1011367402572890132/1100989742847373405/Ganyu_Freeze_1.png"
-  GANYU_FREEZE_2: "https://media.discordapp.net/attachments/1011367402572890132/1100989743157743616/Ganyu_Freeze_2.png"
-  GANYU_MELT_1: "https://media.discordapp.net/attachments/1011367402572890132/1100989742016905257/Ganyu_Melt_1.png"
-  GANYU_MELT_2: "https://media.discordapp.net/attachments/1011367402572890132/1100989742478266438/Ganyu_Melt_2.png"
-  HEIZOU_1: "https://keqingmains.com/wp-content/uploads/2022/10/Heizou_1.png"
-  HUTAO_1: "https://keqingmains.com/wp-content/uploads/2023/03/Hu-Tao-1.png"
-  HUTAO_2: "https://keqingmains.com/wp-content/uploads/2023/02/Hu_Tao_Teams.png"
-  ITTO_1: "https://keqingmains.com/wp-content/uploads/2022/07/Itto-main.png"
-  ITTO_2: "https://keqingmains.com/wp-content/uploads/2022/07/Itto-teams.png"
-  JEAN_1: "https://keqingmains.com/wp-content/uploads/2022/10/Jean_1.png"
-  KAZUHA_1: "https://keqingmains.com/wp-content/uploads/2022/10/Kazuha_1.png"
-  KAZUHA_2: "https://keqingmains.com/wp-content/uploads/2022/10/Kazuha_2.png"
-  KOKOMI_1: "https://keqingmains.com/wp-content/uploads/2023/04/Kokomi_1.png"
-  LAYLA_1: "https://keqingmains.com/wp-content/uploads/2023/04/Layla_Build.png"
-  LAYLA_2: "https://keqingmains.com/wp-content/uploads/2023/04/Layla_Teams.png"
-  MONA_1: "https://cdn.discordapp.com/attachments/953505473125052456/953505851036024893/Mona_On-field_DPS_New.png"
-  MONA_2: "https://keqingmains.com/wp-content/uploads/2023/04/Mona_1.png"
-  NAHIDA_1: "https://keqingmains.com/wp-content/uploads/2022/11/Nahida-Infographic-Main-min.png"
-  NILOU_1: "https://keqingmains.com/wp-content/uploads/2022/11/Nilou-Infographic-Main-min.png"
-  RAIDEN_1: "https://keqingmains.com/wp-content/uploads/2022/11/Raiden-Infographic-Main-min.png"
-  RAIDEN_2: "https://keqingmains.com/wp-content/uploads/2022/11/Raiden-Infographic-Teams-min.png"
-  SARA_1: "https://keqingmains.com/wp-content/uploads/2023/02/Sara_1.png"
-  SARA_2:  "https://keqingmains.com/wp-content/uploads/2023/02/Sara_2.png"
-  SHENHE_1: "https://keqingmains.com/wp-content/uploads/2023/03/Shenhe-1.png"
-  SHENHE_2: "https://keqingmains.com/wp-content/uploads/2023/03/Shenhe-2.png"
-  SHINOBU_SUPPORT_1: "https://keqingmains.com/wp-content/uploads/2022/10/Kuki_1.png"
-  SHINOBU_SUPPORT_2: "https://keqingmains.com/wp-content/uploads/2022/10/Kuki_2.png"
-  SHINOBU_HYPERBLOOM_1: "https://keqingmains.com/wp-content/uploads/2023/02/Kuki_Hyperbloom_1.png"
-  SHINOBU_HYPERBLOOM_2: "https://keqingmains.com/wp-content/uploads/2023/02/Kuki_Hyperbloom_2.png"
-  SHINOBU_QUICKEN_1: "https://keqingmains.com/wp-content/uploads/2023/02/Kuki_Quicken_1.png"
-  SHINOBU_QUICKEN_2: "https://keqingmains.com/wp-content/uploads/2023/02/Kuki_Quicken_2.png"
-  SUCROSE_1: "https://keqingmains.com/wp-content/uploads/2022/11/Sucrose-Infographic-Main-min.png"
-  SUCROSE_2: "https://keqingmains.com/wp-content/uploads/2022/11/Sucrose-Infographic-Teams-min.png"
-  TARTAGLIA_1: "https://keqingmains.com/wp-content/uploads/2023/02/Childe_1.png"
-  TARTAGLIA_2: "https://keqingmains.com/wp-content/uploads/2023/02/Childe_2.png"
-  THOMA_1: "https://keqingmains.com/wp-content/uploads/2022/12/ThomaBur1-min.png"
-  THOMA_2: "https://keqingmains.com/wp-content/uploads/2022/12/ThomaBur2-min.png"
-  TIGHNARI_1: "https://keqingmains.com/wp-content/uploads/2022/11/Tighnari-Infographic-Main-min.png"
-  TIGHNARI_2: "https://keqingmains.com/wp-content/uploads/2022/11/Tighnari-Infographic-Teams-min.png"
-  XIAO_1: "https://keqingmains.com/wp-content/uploads/2023/03/Xiao_Build.png"
-  XIAO_2: "https://keqingmains.com/wp-content/uploads/2023/03/Xiao_Teams.png"
-  XIANGLING_1: "https://keqingmains.com/wp-content/uploads/2023/04/Xiangling_1.png"
-  XINGQIU_1 : "https://keqingmains.com/wp-content/uploads/2023/04/Xingqiu_1-1.png"
-  XINGQIU_2 : "https://keqingmains.com/wp-content/uploads/2023/04/Xingqiu_2.png"
-  XINYAN_1: "https://keqingmains.com/wp-content/uploads/2023/02/Xinyansdfvs.png"
-  YAE_1: "https://keqingmains.com/wp-content/uploads/2022/11/Yae-1.png"
-  YAOYAO_1: "https://keqingmains.com/wp-content/uploads/2023/04/Yaoyao_1.png"
-  YAOYAO_2: "https://keqingmains.com/wp-content/uploads/2023/04/Yaoyao_2.png"
-  YELAN_1: "https://keqingmains.com/wp-content/uploads/2022/07/Yelan-1.png"
-  YELAN_2: "https://keqingmains.com/wp-content/uploads/2022/07/Yelan-2.png"
-  YOIMIYA_1: "https://keqingmains.com/wp-content/uploads/2022/08/Yoimiya-1-min.png"
-  YOIMIYA_2: "https://keqingmains.com/wp-content/uploads/2022/08/Yoimiya-2-min.png"
-  ZHONGLI_1: "https://keqingmains.com/wp-content/uploads/2022/08/Zhongli-1-min-1.png"
-  ZHONGLI_2: "https://keqingmains.com/wp-content/uploads/2022/08/Zhongli-2-min.png"
-  DENDRO_1: "https://keqingmains.com/wp-content/uploads/2022/08/Dendro-Basics-V21.png" # basic mechs
-  DENDRO_2: "https://media.discordapp.net/attachments/1039459939854336030/1039744184065740870/Bloom_Mechanics_V2.png" # bloom
-  DENDRO_3: "https://media.discordapp.net/attachments/1039459939854336030/1039744184439017472/Catalyze_Mechanics_V2.png" # catalyze
-  DENDRO_4: "https://media.discordapp.net/attachments/1039459939854336030/1039744184065740870/Bloom_Mechanics_V2.png" # bloom dmg
-  DENDRO_5: "https://media.discordapp.net/attachments/1039459939854336030/1039744184850063370/Dendro_Basics_V2.png" # catalyze dmg
-  MATERIALS_1: "https://keqingmains.com/wp-content/uploads/2023/02/Resource_Materials_KQM-min.png"
-  PITY_1: "https://keqingmains.com/wp-content/uploads/2023/04/Genshin_Pity.png"
-  WOOD_1: "https://keqingmains.com/wp-content/uploads/2023/01/mondstadt-wood-route.png"
-  WOOD_2: "https://keqingmains.com/wp-content/uploads/2023/01/liyue-wood-route.png"
-  WOOD_3: "https://keqingmains.com/wp-content/uploads/2023/01/inazuma-wood-route.png"
-  WOOD_4: "https://keqingmains.com/wp-content/uploads/2023/01/sumeru-forest-wood-route.png"
-  WOOD_5: "https://keqingmains.com/wp-content/uploads/2023/01/sumeru-desert-wood-route.png" 
-  REACTIONS: "https://keqingmains.com/wp-content/uploads/2023/02/Elemental_Reactions-min.png"    
+  SILVER_WOLF: "https://hsr.keqingmains.com/wp-content/uploads/2023/12/Silver_Wolf_Infographic.png"
+
+ICON:
+  CHARACTER_SILVER_WOLF: "https://hsr.keqingmains.com/wp-content/uploads/2023/06/1006.png"
 
 EMOJIS:
   DISCORD: ":discord:966055935808241684"
   LOGO: ":logont:945530991240421386"
-  LOGO_GO: ":GenshinOptimizerGO:994392906385330196"
-  LOGO_ENKA: ":EnkaNetwork:995142900356755528"
   MAGNIFY: ":magnify:763645066975510569"
-  PRIMOGEM: ":primogem:768816635120713769"
+  STELLAR_JADE: ":stellar_jade:1100558525060628560"
   YOUTUBE: ":youtube:945528339299463208"
   EXCEL: ":Excel:1074735692900483192"
   GOOGLE_DOCS: ":GoogleDocs:963914156879253525"
   GOOGLE_SHEETS: ":GoogleSheets:963914233404325908"
   VERIFIED: "a:verified:1034012945518178314"
-  ELEMENT_ANEMO: ":Element_Anemo:945557264616542248"
-  ELEMENT_CRYO: ":Element_Cryo:945557264578781235"
-  ELEMENT_DENDRO: ":Element_Dendro:1042148200913571970"
-  ELEMENT_ELECTRO: ":Element_Electro:945557264733990932"
-  ELEMENT_GEO: ":Element_Geo:945557264813678602"
-  ELEMENT_HYDRO: ":Element_Hydro:945557264314544139"
-  ELEMENT_PYRO: ":Element_Pyro:945557264792707083"
-  ENERGY_RECHARGE: ":ER:947725645104939079"
   BEACH_SUMERU: ":desertsumeru:1054185077422178334"
   #characters
-  CHARACTER_ALBEDO: ":Albedo:953426422045745193"
-  CHARACTER_ALOY: ":Aloy:953426422494527539"
-  CHARACTER_AMBER: ":Amber:953426420430929930"
-  CHARACTER_AYAKA: ":Ayaka:953426419285897226"
-  CHARACTER_AYATO: ":Ayato:958464814882099221"
-  CHARACTER_BARBARA: ":Barbara:953426424465866802"
-  CHARACTER_BEIDOU: ":Beidou:953426424797200425"
-  CHARACTER_BENNETT: ":Bennett:953426422289018881"
-  CHARACTER_CANDACE: ":Candace:1042129149378170940"
-  CHARACTER_COLLEI: ":Collei:1012148992068558898"
-  CHARACTER_CHONGYUN: ":Chongyun:953426423366955018"
-  CHARACTER_CYNO: ":Cyno:1042129146626703470"
-  CHARACTER_DEHYA: ":Dehya:1087477435769045112"
-  CHARACTER_DILUC: ":Diluc:953426425933864961"
-  CHARACTER_DIONA: ":Diona:953426425984192613"
-  CHARACTER_EULA: ":Eula:953426426651111476"
-  CHARACTER_FARUZAN: ":Faruzan:1050444217522061374"
-  CHARACTER_FISCHL: ":Fischl:953426425959034920"
-  CHARACTER_GANYU: ":ZSK:953426426844049478"
-  CHARACTER_GOROU: ":Gorou:953426426974048276"
-  CHARACTER_HEIZOU: ":Heizou:998082439287160854"
-  CHARACTER_HUTAO: ":Hutao:953426426118430780"
-  CHARACTER_ITTO: ":Itto:953426426948882502"
-  CHARACTER_JEAN: ":Jean:953426424109363262"
-  CHARACTER_KAEYA: ":Kaeya:953426424415543316"
-  CHARACTER_KAZUHA: ":Kazuha:953426424444899420"
-  CHARACTER_KEQING: ":Keqing:953426426206498816"
-  CHARACTER_KLEE: ":Klee:953426427045367818"
-  CHARACTER_KOKOMI: ":Kokomi:953426424646213683"
-  CHARACTER_LAYLA: ":Layla:1047260290229731420"
-  CHARACTER_LISA: ":Lisa:953426426995048468"
-  CHARACTER_LUMINE: ":Lumine:1012148989333876839"
-  CHARACTER_MIKA: ":Mika:1090129074543935488"
-  CHARACTER_MONA: ":Mona:953426427150233620"
-  CHARACTER_NAHIDA: ":Nahida:1041944645061574676"
-  CHARACTER_NINGGUANG: ":Ningguang:953426426370097182"
-  CHARACTER_NOELLE: ":Noelle:953426427062124554"
-  CHARACTER_QIQI: ":Qiqi:953426426198097991"
-  CHARACTER_RAIDEN: ":Shogun:953426427003412520"
-  CHARACTER_RAZOR: ":Razor:953426425095024730"
-  CHARACTER_ROSARIA: ":Rosaria:953426426449788958"
-  CHARACTER_SARA: ":Sara:953426425157931098"
-  CHARACTER_SAYU: ":Sayu:953426426558808125"
-  CHARACTER_SHENHE: ":Shenhe:953426426504294450"
-  CHARACTER_SHINOBU: ":Shinobu:991184311841738804"
-  CHARACTER_SUCROSE: ":Sucrose:953426427066347580"
-  CHARACTER_TARTAGLIA: ":Tartaglia:953426426701434901"
-  CHARACTER_THOMA: ":Thoma:953426425459920976"
-  CHARACTER_TIGHNARI: ":Tighnari:1012148990374056047"
-  CHARACTER_TRAVELER: ":Traveler:953430875788443709"
-  CHARACTER_VENTI: ":Venti:953426426651111475"
-  CHARACTER_WANDERER: ":Wanderer:1050444214829330472"
-  CHARACTER_XIANGLING: ":Xiangling:953426425535422474"
-  CHARACTER_XIAO: ":Xiao:953426426701434900"
-  CHARACTER_XINGQIU: ":Xingqiu:953426423589265418"
-  CHARACTER_XINYAN: ":Xinyan:953426427108282378"
-  CHARACTER_YAE: ":Yae:953448235467415653"
-  CHARACTER_YANFEI: ":Yanfei:953426427166982265"
-  CHARACTER_YELAN: ":Yelan:991184312936439808"
-  CHARACTER_YOIMIYA: ":Yoimiya:953426426802094160"
-  CHARACTER_YUNJIN: ":Yunjin:953426425795448842"
-  CHARACTER_ZHONGLI: ":Zhongli:953426425933864960"
+  CHARACTER_SILVER_WOLF: ":SilverWolf:1182530731755442238"

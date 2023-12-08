@@ -1,4 +1,0 @@
-interaction: faq/dendro3
-description: Catalyze Mechanics
-match: ${ TRIGGER_PREFIX }(?:catalyze|quicken)(?:\s|$)
-ignoreCase: true

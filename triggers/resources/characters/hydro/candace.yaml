@@ -1,4 +1,0 @@
-interaction: characters/hydro/candace/main
-description: "Opens KQM's resources on Candace"
-match: ${ TRIGGER_PREFIX }candace(?:\s|$)
-ignoreCase: true

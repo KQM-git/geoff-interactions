@@ -1,4 +1,0 @@
-interaction: characters/geo/itto/main
-description: "Opens KQM's resources on Itto"
-match: ${ TRIGGER_PREFIX }itto(?:\s|$)
-ignoreCase: true

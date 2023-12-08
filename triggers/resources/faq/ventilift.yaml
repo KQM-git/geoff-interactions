@@ -1,4 +1,0 @@
-interaction: faq/ventilift
-description: Venti Succ Database
-match: ${ TRIGGER_PREFIX }ventilift(?:\s|$)
-ignoreCase: true

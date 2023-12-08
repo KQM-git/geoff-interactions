@@ -1,4 +1,0 @@
-interaction: faq/dendro5
-description: Catalyze Damage Formula
-match: ${ TRIGGER_PREFIX }(?:catalyze|quicken)\s?(?:dmg|damage)(?:\s|$)
-ignoreCase: true

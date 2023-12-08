@@ -1,4 +1,0 @@
-interaction: characters/geo/noelle/main
-description: "Opens KQM's resources on Noelle"
-match: ${ TRIGGER_PREFIX }noelle(?:\s|$)
-ignoreCase: true

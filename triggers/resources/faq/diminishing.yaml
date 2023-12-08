@@ -1,4 +1,0 @@
-interaction: faq/diminishing
-description: Diminishing Returns Info
-match: ${ TRIGGER_PREFIX }diminishing(?:\s|$)
-ignoreCase: true

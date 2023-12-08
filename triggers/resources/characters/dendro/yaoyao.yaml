@@ -1,4 +1,0 @@
-interaction: characters/dendro/yaoyao/main
-description: "Opens KQM's resources on Yaoyao"
-match: ${ TRIGGER_PREFIX }yaoyao(?:\s|$)
-ignoreCase: true
