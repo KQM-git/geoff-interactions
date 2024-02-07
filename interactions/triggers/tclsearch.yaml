@@ -1,0 +1,9 @@
+embeds:
+  - color: ${ COLORS.KQM_PURPLE }
+    description: |-
+      **Search: **${ $MATCH[1] }
+
+buttons:
+  - label: RESULTS
+    style: LINK
+    url: "https://library.keqingmains.com/search?q=${ encodeURIComponent($MATCH[1]) }"

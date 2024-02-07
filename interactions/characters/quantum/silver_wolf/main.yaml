@@ -1,0 +1,28 @@
+embeds:
+  - title: Silver Wolf
+    color: ${ COLORS.QUANTUM_BLURPLE }
+    image: 
+      url: ${INFOGRAPHICS.SILVER_WOLF}
+    thumbnail:
+      url: ${ICON.CHARACTER_SILVER_WOLF}
+    description: |-
+      ★★★★★
+      *Quantum Nihility Support*
+    footer:
+      text: "Use \"Open original\" to view full size.\n\nCredits to: euphorysm (Designer) | jas  (Content)"
+
+buttons:
+  - label: "Guide"
+    url: "https://hsr.kqm.gg/silver-wolf/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "SRL"
+    url: "https://srl.keqingmains.com/characters/quantum/silver-wolf"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"
+
+  # - label: "Video Guide"
+  #   url: "https://youtu.be/FjDsbxPbk50"
+  #   emoji: ${ EMOJIS.YOUTUBE }
+  #   style: "LINK"

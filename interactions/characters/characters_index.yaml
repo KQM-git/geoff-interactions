@@ -1,0 +1,46 @@
+embeds:
+  - title: KQM Character Information
+    color: ${COLORS.KQM_PURPLE}
+    description: |-
+      Below, you can navigate through our menus to find KeqingMains' character guide content. 
+    thumbnail: 
+      url: ${ IMAGES.KQM_LOGO }
+    
+
+# Additional links that should be displayed in the initial message.
+
+options: 
+  - label: Preservation
+    value: characters/index_preservation
+    description: Guides for Fire characters
+    emoji: ${ EMOJIS.PATH_PRESERVATION }
+
+  - label: The Hunt
+    value: characters/index_hunt
+    description: Guides for Hunt characters
+    emoji: ${ EMOJIS.PATH_HUNT }
+
+  - label: Erudition
+    value: characters/index_erudition
+    description: Guides for Erudition characters
+    emoji: ${ EMOJIS.PATH_ERUDITION }
+
+  - label: Nihility
+    value: characters/electro/index_nihility
+    description: Guides for Nihility characters
+    emoji: ${ EMOJIS.PATH_NIHILITY }
+
+  - label: Harmony
+    value: characters/geo/index_harmony
+    description: Guides for Harmony characters
+    emoji: ${ EMOJIS.PATH_HARMONY }
+
+  - label: Destruction
+    value: characters/hydro/index_destruction
+    description: Guides for Destruction characters
+    emoji: ${ EMOJIS.PATH_DESTRUCTION }
+
+  - label: Abundance
+    value: characters/pyro/index_abundance
+    description: Guides for Abundance characters
+    emoji: ${ EMOJIS.PATH_ABUNDANCE }

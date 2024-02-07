@@ -1,0 +1,34 @@
+embeds:
+  - title: Kikin Help
+    color: ${ COLORS.KQM_PURPLE }
+    thumbnail:
+      url: ${ IMAGES.KQM_LOGO }
+    description: |-
+      Here are all of KQM's resources available through the Kikin Bot. To see more commands use the buttons below.
+
+      **Character Commands**
+      `/characters`: Display all of KQM's character resources.
+       ╰ Usage: `/characters [charactername]`
+
+# button order:
+# characters (_main) > guides > calculators > links > other > fun
+
+buttons:
+  - customId: "liveInteraction#help/tcl"
+    label: Back - TCL Commands
+    style: "PRIMARY"
+    emoji: "◀️"
+
+  - customId: "liveInteraction#help/faq"
+    label: Next - FAQ Commands
+    style: "PRIMARY"
+    emoji: "▶️"
+
+  - url: "https://keqingmains.com/"
+    label: KQM
+    style: "LINK"
+    emoji: ${EMOJIS.LOGO}
+
+permissions:
+  blacklist:
+    - "763583891440533524"

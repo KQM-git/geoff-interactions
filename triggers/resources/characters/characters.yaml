@@ -1,0 +1,4 @@
+interaction: characters/quantum/silver_wolf/main
+description: "Guhua replacement program"
+match: ${ TRIGGER_PREFIX }characters(?:\s|$)
+ignoreCase: true
