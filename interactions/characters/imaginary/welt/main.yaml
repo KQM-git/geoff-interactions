@@ -1,0 +1,28 @@
+embeds:
+  - title: Welt
+    color: ${ COLORS.IMAGINARY_YELLOW }
+    image: 
+      url: ${INFOGRAPHICS.WELT_1}
+    thumbnail:
+      url: ${ICON.CHARACTER_WELT}
+    description: |-
+      ★★★★★
+      *Imaginary Nihility Damage Dealer*
+    footer:
+      text: "Use \"Open original\" to view full size.\n\nCredits to: euphorysm (Designer) | nlrem (Content)"
+
+buttons:
+  - label: "Guide"
+    url: "https://hsr.keqingmains.com/welt/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "SRL"
+    url: "https://srl.keqingmains.com/characters/imaginary/welt"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"
+
+  # - label: "Video Guide"
+  #   url: "https://youtu.be/FjDsbxPbk50"
+  #   emoji: ${ EMOJIS.YOUTUBE }
+  #   style: "LINK"

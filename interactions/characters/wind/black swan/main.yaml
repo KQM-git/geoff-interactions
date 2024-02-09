@@ -1,15 +1,15 @@
 embeds:
-  - title: Argenti
-    color: ${ COLORS.FIRE_RED }
+  - title: Black Swan
+    color: ${ COLORS.WIND_GREEN }
     image: 
-      url: ${INFOGRAPHICS.ARGENTI_1}
+      url: ${INFOGRAPHICS.BLACKSWAN_1}
     thumbnail:
-      url: ${ICON.CHARACTER_ARGENTI}
+      url: ${ICON.CHARACTER_BLACKSWAN}
     description: |-
       ★★★★★
-      *Fire Erudition Damage Dealer*
+      *Wind Nihility Damage Dealer*
     footer:
-      text: "Use \"Open original\" to view full size.\n\nCredits to: euphorysm (Designer) | nlrem (Content)"
+      text: "Use \"Open original\" to view full size.\n\nCredits to: euphorysm (Designer) | bakane_ (Content)"
 
 # buttons:
 #   - label: "Guide"

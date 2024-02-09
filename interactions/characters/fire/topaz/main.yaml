@@ -1,21 +1,21 @@
 embeds:
-  - title: Argenti
+  - title: Topaz & Numby
     color: ${ COLORS.FIRE_RED }
     image: 
-      url: ${INFOGRAPHICS.ARGENTI_1}
+      url: ${INFOGRAPHICS.TOPAZ_1}
     thumbnail:
-      url: ${ICON.CHARACTER_ARGENTI}
+      url: ${ICON.CHARACTER_TOPAZ}
     description: |-
       ★★★★★
-      *Fire Erudition Damage Dealer*
+      *Fire Hunt Damage Dealer*
     footer:
-      text: "Use \"Open original\" to view full size.\n\nCredits to: euphorysm (Designer) | nlrem (Content)"
+      text: "Use \"Open original\" to view full size.\n\nCredits to: euphorysm (Designer) | Sushou (Content)"
 
-# buttons:
-#   - label: "Guide"
-#     url: "https://hsr.kqm.gg/silver-wolf/"
-#     emoji: ${ EMOJIS.LOGO }
-#     style: "LINK"
+buttons:
+  - label: "Guide"
+    url: "https://hsr.keqingmains.com/topaz-and-numby/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
 
 #   - label: "SRL"
 #     url: "https://srl.keqingmains.com/characters/quantum/silver-wolf"

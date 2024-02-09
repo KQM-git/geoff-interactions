@@ -1,0 +1,28 @@
+embeds:
+  - title: Yukong
+    color: ${ COLORS.IMAGINARY_YELLOW }
+    image: 
+      url: ${INFOGRAPHICS.YUKONG_1}
+    thumbnail:
+      url: ${ICON.CHARACTER_YUKONG}
+    description: |-
+      ★★★★
+      *Imaginary Harmony Support*
+    footer:
+      text: "Use \"Open original\" to view full size.\n\nCredits to: euphorysm (Designer) | Reens (Content)"
+
+buttons:
+  - label: "Guide"
+    url: "https://hsr.keqingmains.com/yukong/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "SRL"
+    url: "https://srl.keqingmains.com/characters/imaginary/yukong"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"
+
+  # - label: "Video Guide"
+  #   url: "https://youtu.be/FjDsbxPbk50"
+  #   emoji: ${ EMOJIS.YOUTUBE }
+  #   style: "LINK"

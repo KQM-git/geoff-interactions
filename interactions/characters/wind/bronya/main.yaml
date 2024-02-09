@@ -1,0 +1,28 @@
+embeds:
+  - title: Bronya
+    color: ${ COLORS.WIND_GREEN }
+    image: 
+      url: ${INFOGRAPHICS.BRONYA_1}
+    thumbnail:
+      url: ${ICON.CHARACTER_BRONYA}
+    description: |-
+      ★★★★★
+      *Wind Harmony Support*
+    footer:
+      text: "Use \"Open original\" to view full size.\n\nCredits to: euphorysm (Designer) | AnemoneMeer (Content)"
+
+buttons:
+  - label: "Guide"
+    url: "https://hsr.keqingmains.com/bronya/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "SRL"
+    url: "https://srl.keqingmains.com/characters/wind/bronya"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"
+
+  # - label: "Video Guide"
+  #   url: "https://youtu.be/FjDsbxPbk50"
+  #   emoji: ${ EMOJIS.YOUTUBE }
+  #   style: "LINK"

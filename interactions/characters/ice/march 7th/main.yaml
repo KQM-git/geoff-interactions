@@ -1,0 +1,28 @@
+embeds:
+  - title: March 7th
+    color: ${ COLORS.ICE_BLUE }
+    image: 
+      url: ${INFOGRAPHICS.MARCH_1}
+    thumbnail:
+      url: ${ICON.CHARACTER_MARCH}
+    description: |-
+      ★★★★
+      *Ice Preservation Sustain*
+    footer:
+      text: "Use \"Open original\" to view full size.\n\nCredits to: euphorysm (Designer) | bakane_ (Content)"
+
+buttons:
+  - label: "Guide"
+    url: "https://hsr.keqingmains.com/march-7th/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "SRL"
+    url: "https://srl.keqingmains.com/characters/ice/march_7th"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"
+
+  # - label: "Video Guide"
+  #   url: "https://youtu.be/FjDsbxPbk50"
+  #   emoji: ${ EMOJIS.YOUTUBE }
+  #   style: "LINK"
