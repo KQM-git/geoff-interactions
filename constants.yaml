@@ -35,7 +35,23 @@ IMAGES:
   KQM_LOGO: "https://i2.wp.com/keqingmains.com/wp-content/uploads/2021/10/kqm-logo-full-e1633177025729.png"
 
 INFOGRAPHICS:
-  SILVER_WOLF: "https://hsr.keqingmains.com/wp-content/uploads/2023/12/Silver_Wolf_Infographic.png"
+  ARGENTI_1: "https://hsr.keqingmains.com/wp-content/uploads/2023/12/KQM_Argenti_Infographic.png"
+  BLACKSWAN_1: "https://hsr.keqingmains.com/wp-content/uploads/2024/02/Black_Swan_Infographic_-_euphorysm.png"
+  BLADE_1: "https://hsr.keqingmains.com/wp-content/uploads/2024/01/Blade_Infographic_-_euphorysm-2.png"
+  BRONYA_1: "https://hsr.keqingmains.com/wp-content/uploads/2024/01/Bronya_Infographic_-_euphorysm.png"
+  FIRE_TRAILBLAZER_1: "https://hsr.keqingmains.com/wp-content/uploads/2023/12/Tank_Fire_Trailblazer_Infographic_-_euphorysm.png" # TANK BUILD
+  FIRE_TRAILBLAZER_2: "https://hsr.keqingmains.com/wp-content/uploads/2023/12/Crit_Fire_Trailblazer_Infographic_-_euphorysm.png" # CRIT BUILD
+  HUOHUO_1: "https://hsr.keqingmains.com/wp-content/uploads/2023/12/Huohuo_Infographic.png"
+  MARCH_1: "https://hsr.keqingmains.com/wp-content/uploads/2023/12/March_Infographic_-_euphorysm.png"
+  MISHA_1: "https://hsr.keqingmains.com/wp-content/uploads/2024/02/KQM_Misha_Damage_Dealer_Infographic_-_euphorysm.png" # DMG DEALER
+  MISHA_2: "https://hsr.keqingmains.com/wp-content/uploads/2024/02/Misha_Sustain_Infographic_-_euphorysm.png" # SUSTAIN
+  RUANMEI_1: "https://hsr.keqingmains.com/wp-content/uploads/2024/01/Ruan_Mei_Infographic_-_euphorysm.png"
+  SEELE_1: "https://hsr.keqingmains.com/wp-content/uploads/2024/01/Seele_Infographic_-_euphorysm.png"
+  SILVER_WOLF_1: "https://hsr.keqingmains.com/wp-content/uploads/2023/12/Silver_Wolf_Infographic.png"
+  TOPAZ_1: "https://hsr.keqingmains.com/wp-content/uploads/2023/11/Topaz-Infographic.png"
+  WELT_1: "https://hsr.keqingmains.com/wp-content/uploads/2023/12/Welt_Infographic_-_euphorysm.png"
+  YUKONG_1: "https://hsr.keqingmains.com/wp-content/uploads/2024/01/KQM_Yukong_Infographic.png"
+
 
 ICON:
   CHARACTER_SILVER_WOLF: "https://hsr.keqingmains.com/wp-content/uploads/2023/06/1006.png"

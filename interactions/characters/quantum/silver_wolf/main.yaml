@@ -2,14 +2,14 @@ embeds:
   - title: Silver Wolf
     color: ${ COLORS.QUANTUM_BLURPLE }
     image: 
-      url: ${INFOGRAPHICS.SILVER_WOLF}
+      url: ${INFOGRAPHICS.SILVER_WOLF_1}
     thumbnail:
       url: ${ICON.CHARACTER_SILVER_WOLF}
     description: |-
       ★★★★★
       *Quantum Nihility Support*
     footer:
-      text: "Use \"Open original\" to view full size.\n\nCredits to: euphorysm (Designer) | jas  (Content)"
+      text: "Use \"Open original\" to view full size.\n\nCredits to: euphorysm (Designer) | jas (Content)"
 
 buttons:
   - label: "Guide"
