@@ -1,0 +1,4 @@
+interaction: characters/imaginary/yukong/main
+description: "Opens KQM's resources on Yukong"
+match: ${ TRIGGER_PREFIX }(yukong|yk))(?:\s|$)
+ignoreCase: true

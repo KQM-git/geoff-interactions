@@ -1,0 +1,4 @@
+interaction: characters/imaginary/welt/main
+description: "Opens KQM's resources on Welt"
+match: ${ TRIGGER_PREFIX }welt(?:\s|$)
+ignoreCase: true

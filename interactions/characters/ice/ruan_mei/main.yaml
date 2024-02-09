@@ -1,0 +1,28 @@
+embeds:
+  - title: Ruan Mei
+    color: ${ COLORS.ICE_BLUE }
+    image: 
+      url: ${INFOGRAPHICS.RUANMEI}
+    thumbnail:
+      url: ${ICON.CHARACTER_RUANMEI}
+    description: |-
+      ★★★★★
+      *Ice Harmony Support*
+    footer:
+      text: "Use \"Open original\" to view full size.\n\nCredits to: euphorysm (Designer) | Reens (Content)"
+
+buttons:
+  - label: "Guide"
+    url: "https://hsr.keqingmains.com/ruan-mei/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  # - label: "SRL"
+  #   url: "https://srl.keqingmains.com/characters/ice/march_7th"
+  #   emoji: ${ EMOJIS.MAGNIFY }
+  #   style: "LINK"
+
+  # - label: "Video Guide"
+  #   url: "https://youtu.be/FjDsbxPbk50"
+  #   emoji: ${ EMOJIS.YOUTUBE }
+  #   style: "LINK"

@@ -1,0 +1,28 @@
+embeds:
+  - title: Blade
+    color: ${ COLORS.WIND_GREEN }
+    image: 
+      url: ${INFOGRAPHICS.BLADE_1}
+    thumbnail:
+      url: ${ICON.CHARACTER_BLADE}
+    description: |-
+      ★★★★★
+      *Wind Destruction Damage Dealer*
+    footer:
+      text: "Use \"Open original\" to view full size.\n\nCredits to: euphorysm (Designer) | bakane_ (Content)"
+
+buttons:
+  - label: "Guide"
+    url: "https://hsr.keqingmains.com/blade/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "SRL"
+    url: "https://srl.keqingmains.com/characters/wind/blade"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"
+
+  # - label: "Video Guide"
+  #   url: "https://youtu.be/FjDsbxPbk50"
+  #   emoji: ${ EMOJIS.YOUTUBE }
+  #   style: "LINK"

@@ -1,0 +1,4 @@
+interaction: characters/wind/bronya/main
+description: "Opens KQM's resources on Bronya"
+match: ${ TRIGGER_PREFIX }bronya(?:\s|$)
+ignoreCase: true

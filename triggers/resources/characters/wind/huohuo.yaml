@@ -1,0 +1,4 @@
+interaction: characters/wind/huohuo/main
+description: "Opens KQM's resources on Huohuo"
+match: ${ TRIGGER_PREFIX }(huohuo|hh)(?:\s|$)
+ignoreCase: true

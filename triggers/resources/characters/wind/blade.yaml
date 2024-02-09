@@ -1,0 +1,4 @@
+interaction: characters/wind/blade/main
+description: "Opens KQM's resources on Blade"
+match: ${ TRIGGER_PREFIX }blade(?:\s|$)
+ignoreCase: true

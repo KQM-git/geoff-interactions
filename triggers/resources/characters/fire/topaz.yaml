@@ -1,0 +1,4 @@
+interaction: characters/quantum/topaz/main
+description: "Opens KQM's resources on Topaz & Numby"
+match: ${ TRIGGER_PREFIX }(topaz|numby)(?:\s|$)
+ignoreCase: true

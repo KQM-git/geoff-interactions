@@ -1,0 +1,4 @@
+interaction: characters/physical/argenti/main
+description: "Opens KQM's resources on Argenti"
+match: ${ TRIGGER_PREFIX }argenti(?:\s|$)
+ignoreCase: true
