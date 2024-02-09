@@ -1,0 +1,4 @@
+interaction: characters/ice/march_7th/main
+description: "Opens KQM's resources on March 7th"
+match: ${ TRIGGER_PREFIX }(march|march7th|m7)(?:\s|$)
+ignoreCase: true

@@ -1,13 +1,13 @@
 embeds:
   - title: Argenti
-    color: ${ COLORS.FIRE_RED }
+    color: ${ COLORS.PHYSICAL_GREY }
     image: 
       url: ${INFOGRAPHICS.ARGENTI_1}
     thumbnail:
       url: ${ICON.CHARACTER_ARGENTI}
     description: |-
       ★★★★★
-      *Fire Erudition Damage Dealer*
+      *Physical Erudition Damage Dealer*
     footer:
       text: "Use \"Open original\" to view full size.\n\nCredits to: euphorysm (Designer) | nlrem (Content)"
 

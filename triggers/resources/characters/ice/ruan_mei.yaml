@@ -1,0 +1,4 @@
+interaction: characters/ice/ruan_mei/main
+description: "Opens KQM's resources on Ruan Mei"
+match: ${ TRIGGER_PREFIX }(ruanmei|rm|ruan|mei)(?:\s|$)
+ignoreCase: true
