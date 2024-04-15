@@ -1,0 +1,4 @@
+interaction: characters/quantum/seele/main
+description: "Opens KQM's resources on Seele"
+match: ${ TRIGGER_PREFIX }seele(?:\s|$)
+ignoreCase: true

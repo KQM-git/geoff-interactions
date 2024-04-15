@@ -1,13 +1,13 @@
 embeds:
-  - title: Silver Wolf
+  - title: Seele
     color: ${ COLORS.QUANTUM_BLURPLE }
     image: 
-      url: ${INFOGRAPHICS.SILVER_WOLF_1}
+      url: ${INFOGRAPHICS.SEELE_1}
     thumbnail:
-      url: ${ICON.CHARACTER_SILVER_WOLF}
+      url: ${ICON.CHARACTER_SEELE}
     description: |-
       ★★★★★
-      *Quantum Nihility Support*
+      *Quantum Hunt Damage Dealer*
     footer:
       text: "Use \"Open original\" to view full size.\n\nCredits to: euphorysm (Designer) | jas (Content)"
 

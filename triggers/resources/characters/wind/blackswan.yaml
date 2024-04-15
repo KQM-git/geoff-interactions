@@ -1,0 +1,4 @@
+interaction: characters/wind/black_swan/main
+description: "Opens KQM's resources on Black Swan"
+match: ${ TRIGGER_PREFIX }(blackswan|bs|swan)(?:\s|$)
+ignoreCase: true
