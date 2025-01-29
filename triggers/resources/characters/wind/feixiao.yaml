@@ -1,0 +1,4 @@
+interaction: characters/wind/feixiao/main
+description: "Opens KQM's resources on Feixiao"
+match: ${ TRIGGER_PREFIX }feixiao(?:\s|$)
+ignoreCase: true
