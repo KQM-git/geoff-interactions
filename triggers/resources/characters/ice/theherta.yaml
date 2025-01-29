@@ -1,0 +1,4 @@
+- interaction: characters/ice/theherta/main
+  description: "Opens KQM's resources on The Herta"
+  match: ${TRIGGER_PREFIX}(?:therta|theherta|bigherta)(?:\s|$)
+  ignoreCase: true
