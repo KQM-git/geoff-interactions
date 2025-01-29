@@ -1,0 +1,5 @@
+interaction: characters/ice/ice_trailblazer/main
+description: "Opens KQM's resources on Ice Trailblazer"
+match: ${TRIGGER_PREFIX}(?:icetb|icetrailblazer|itb|rtb|rememberancetb)(?:\s|$)
+ignoreCase: true
+charName: Ice Trailblazer

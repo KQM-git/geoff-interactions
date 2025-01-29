@@ -6,7 +6,7 @@ embeds:
     thumbnail:
       url: ${ICON.CHARACTER_MOZE}
     description: |-
-      ★★★★★
+      ★★★★
       *Lightning Hunt Supportive DPS*
     footer:
       text: "Use \"Open original\" to view full size.\n\nCredits to: euphorysm, ErisDC (Designer) | Mayonnaise (Content)"
