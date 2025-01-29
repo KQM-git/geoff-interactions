@@ -11,11 +11,11 @@ embeds:
     footer:
       text: "Use \"Open original\" to view full size.\n\nCredits to: euphorysm, ErisDC (Designer) | soul_fish (Content)"
 
-buttons:
-  - label: "Guide"
-    url: "https://hsr.keqingmains.com/topaz-and-numby/"
-    emoji: ${ EMOJIS.LOGO }
-    style: "LINK"
+# buttons:
+#   - label: "Guide"
+#     url: "https://hsr.keqingmains.com/topaz-and-numby/"
+#     emoji: ${ EMOJIS.LOGO }
+#     style: "LINK"
 
 #   - label: "SRL"
 #     url: "https://srl.keqingmains.com/characters/quantum/silver-wolf"
