@@ -13,7 +13,7 @@ options: #dropdown
     emoji: ${EMOJIS.LOGO }
 
   - label: Argenti (The Herta Support) Infographic
-    value: characters/physical/argenti/aoe_dps
+    value: characters/physical/argenti/therta_support
     description: KQM's resources for The Herta Support Argenti.
     emoji: ${EMOJIS.LOGO }
 
