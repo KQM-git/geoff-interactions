@@ -1,11 +1,11 @@
 embeds:
-  - title: Imaginary Trailblazer
-    color: ${ COLORS.IMAGINARY_YELLOW }
+  - title: Ice Trailblazer
+    color: ${ COLORS.ICE_BLUE }
     image: 
-      url: ${INFOGRAPHICS.IMAGINARY_TRAILBLAZER_1}
+      url: ${INFOGRAPHICS.ICE_TRAILBLAZER_1}
     description: |-
       ★★★★★
-      *Imaginary Rememberance Support*
+      *Ice Rememberance Support*
     footer:
       text: "Use \"Open original\" to view full size.\n\nCredits to: euphorysm, ErisDC (Designer) | soul_fish (Content)"
 
