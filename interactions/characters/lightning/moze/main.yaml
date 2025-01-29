@@ -7,15 +7,15 @@ embeds:
       url: ${ICON.CHARACTER_MOZE}
     description: |-
       ★★★★★
-      *Hunt Lightning Supportive DPS*
+      *Lightning Hunt Supportive DPS*
     footer:
       text: "Use \"Open original\" to view full size.\n\nCredits to: euphorysm, ErisDC (Designer) | Mayonnaise (Content)"
 
-# buttons:
-#   - label: "Guide"
-#     url: "https://hsr.kqm.gg/silver-wolf/"
-#     emoji: ${ EMOJIS.LOGO }
-#     style: "LINK"
+buttons:
+  - label: "Guide"
+    url: "https://hsr.kqm.gg/moze"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
 
 #   - label: "SRL"
 #     url: "https://srl.keqingmains.com/characters/quantum/silver-wolf"

@@ -1,19 +1,19 @@
 embeds:
-  - title: Jing Yuan
+  - title: Serval
     color: ${ COLORS.LIGHTNING_PURPLE }
     image: 
-      url: ${INFOGRAPHICS.JINGYUAN_1}
+      url: ${INFOGRAPHICS.SERVAL_1}
     thumbnail:
-      url: ${ICON.CHARACTER_JINGYUAN}
+      url: ${ICON.CHARACTER_SERVAL}
     description: |-
-      ★★★★★
-      *Lightning Erudition Summon DPS*
+      ★★★★
+      *Lightning Erudition The Herta Support*
     footer:
-      text: "Use \"Open original\" to view full size.\n\nCredits to: euphorysm (Designer) | ErisDC (Content)"
+      text: "Use \"Open original\" to view full size.\n\nCredits to: euphorysm, ErisDC (Designer) | happy_ice_cream (Content)"
 
 # buttons:
 #   - label: "Guide"
-#     url: "https://hsr.kqm.gg/silver-wolf/"
+#     url: "https://hsr.kqm.gg/serval/"
 #     emoji: ${ EMOJIS.LOGO }
 #     style: "LINK"
 
