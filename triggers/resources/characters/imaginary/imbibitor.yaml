@@ -1,0 +1,4 @@
+interaction: characters/imaginary/imbibitor/main
+description: "Opens KQM's resources on Imbibitor Lunae"
+match: ${TRIGGER_PREFIX}(?:il|imbibitor|lunae|imbibitorlunae)(?:\s|$)
+ignoreCase: true
