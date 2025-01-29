@@ -1,0 +1,34 @@
+embeds:
+  - title: Herta
+    color: ${ COLORS.ICE_BLUE }
+    thumbnail:
+      url: ${ICON.CHARACTER_HERTA}
+    description: |-
+      *Member 83 of the Genius Society. The real master of the space station. An incredibly intelligent yet unsympathetic scientist.*
+
+options: #dropdown
+  - label: Herta Pure Fiction DPS Infographic
+    value: characters/ice/herta/pf_dps
+    description: KQM's resources for Pure Fiction DPS Herta.
+    emoji: ${EMOJIS.LOGO }
+
+  - label: Herta, The Herta Support Infographic
+    value: characters/ice/herta/therta_support
+    description: KQM's resources for The Herta Support Herta.
+    emoji: ${EMOJIS.LOGO }
+
+buttons:
+  # - label: "Guide"
+  #   url: "https://hsr.keqingmains.com/jingliu/"
+  #   emoji: ${ EMOJIS.LOGO }
+  #   style: "LINK"
+
+  - label: "SRL"
+    url: "https://srl.keqingmains.com/characters/ice/herta"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"
+
+  # - label: "Video Guide"
+  #   url: "https://youtu.be/FjDsbxPbk50"
+  #   emoji: ${ EMOJIS.YOUTUBE }
+  #   style: "LINK"

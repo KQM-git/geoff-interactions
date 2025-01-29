@@ -1,0 +1,4 @@
+interaction: characters/ice/herta/main
+description: "Opens KQM's resources on Herta"
+match: ${ TRIGGER_PREFIX }herta(?:\s|$)
+ignoreCase: true

@@ -1,15 +1,15 @@
 embeds:
-  - title: Jing Yuan
-    color: ${ COLORS.LIGHTNING_PURPLE }
+  - title: Argenti
+    color: ${ COLORS.PHYSICAL_GREY }
     image: 
-      url: ${INFOGRAPHICS.JINGYUAN_1}
+      url: ${INFOGRAPHICS.ARGENTI_1}
     thumbnail:
-      url: ${ICON.CHARACTER_JINGYUAN}
+      url: ${ICON.CHARACTER_ARGENTI}
     description: |-
       ★★★★★
-      *Lightning Erudition Summon DPS*
+      *Physical Erudition AoE DPS*
     footer:
-      text: "Use \"Open original\" to view full size.\n\nCredits to: euphorysm (Designer) | ErisDC (Content)"
+      text: "Use \"Open original\" to view full size.\n\nCredits to: euphorysm, ErisDC (Designer) | happy_ice_cream (Content)"
 
 # buttons:
 #   - label: "Guide"
