@@ -2,7 +2,7 @@ embeds:
   - title: Jingliu
     color: ${ COLORS.ICE_BLUE }
     image: 
-      url: ${INFOGRAPHICS.JINGLIU}
+      url: ${INFOGRAPHICS.JINGLIU_1}
     thumbnail:
       url: ${ICON.CHARACTER_JINGLIU}
     description: |-
