@@ -1,15 +1,21 @@
 embeds:
   - title: Argenti
     color: ${ COLORS.PHYSICAL_GREY }
-    image: 
-      url: ${INFOGRAPHICS.ARGENTI_1}
     thumbnail:
       url: ${ICON.CHARACTER_ARGENTI}
     description: |-
-      ★★★★★
-      *Physical Erudition Damage Dealer*
-    footer:
-      text: "Use \"Open original\" to view full size.\n\nCredits to: euphorysm (Designer) | nlrem (Content)"
+      *A classic knight of the "Knights of Beauty" who is piously seeking his missing Aeon Idrila the "Beauty." Forthright and candid, he wanders the cosmos espousing the virtues of Idrila's good name.*
+
+options: #dropdown
+  - label: Argenti AoE DPS Infographic
+    value: characters/physical/argenti/aoe_dps
+    description: KQM's resources for AoE DPS Argenti.
+    emoji: ${EMOJIS.LOGO }
+
+  - label: Argenti (The Herta Support) Infographic
+    value: characters/physical/argenti/therta_support
+    description: KQM's resources for The Herta Support Argenti.
+    emoji: ${EMOJIS.LOGO }
 
 # buttons:
 #   - label: "Guide"

@@ -1,19 +1,19 @@
 embeds:
-  - title: Ruan Mei
+  - title: The Herta
     color: ${ COLORS.ICE_BLUE }
     image: 
-      url: ${INFOGRAPHICS.RUANMEI_1}
+      url: ${INFOGRAPHICS.THEHERTA_1}
     thumbnail:
-      url: ${ICON.CHARACTER_RUANMEI}
+      url: ${ICON.CHARACTER_THEHERTA}
     description: |-
       ★★★★★
-      *Ice Harmony Support*
+      *Ice Erudition AoE DPS*
     footer:
-      text: "Use \"Open original\" to view full size.\n\nCredits to: euphorysm (Designer) | Reens (Content)"
+      text: "Use \"Open original\" to view full size.\n\nCredits to: euphorysm, ErisDC (Designer) | soul_fish (Content)"
 
 buttons:
   - label: "Guide"
-    url: "https://hsr.keqingmains.com/ruan-mei/"
+    url: "https://hsr.keqingmains.com/the-herta"
     emoji: ${ EMOJIS.LOGO }
     style: "LINK"
 

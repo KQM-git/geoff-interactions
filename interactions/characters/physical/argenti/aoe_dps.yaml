@@ -1,0 +1,28 @@
+embeds:
+  - title: Argenti
+    color: ${ COLORS.PHYSICAL_GREY }
+    image: 
+      url: ${INFOGRAPHICS.ARGENTI_1}
+    thumbnail:
+      url: ${ICON.CHARACTER_ARGENTI}
+    description: |-
+      ★★★★★
+      *Physical Erudition AoE DPS*
+    footer:
+      text: "Use \"Open original\" to view full size.\n\nCredits to: euphorysm, ErisDC (Designer) | happy_ice_cream (Content)"
+
+# buttons:
+#   - label: "Guide"
+#     url: "https://hsr.kqm.gg/silver-wolf/"
+#     emoji: ${ EMOJIS.LOGO }
+#     style: "LINK"
+
+#   - label: "SRL"
+#     url: "https://srl.keqingmains.com/characters/quantum/silver-wolf"
+#     emoji: ${ EMOJIS.MAGNIFY }
+#     style: "LINK"
+
+  # - label: "Video Guide"
+  #   url: "https://youtu.be/FjDsbxPbk50"
+  #   emoji: ${ EMOJIS.YOUTUBE }
+  #   style: "LINK"

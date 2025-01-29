@@ -1,0 +1,4 @@
+interaction: characters/quantum/jade/main
+description: "Opens KQM's resources on Jade"
+match: ${ TRIGGER_PREFIX }jade(?:\s|$)
+ignoreCase: true

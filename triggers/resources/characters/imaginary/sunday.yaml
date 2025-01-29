@@ -1,0 +1,4 @@
+interaction: characters/imaginary/sunday/main
+description: "Opens KQM's resources on Sunday"
+match: ${ TRIGGER_PREFIX }sunday(?:\s|$)
+ignoreCase: true

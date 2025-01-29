@@ -1,0 +1,4 @@
+interaction: characters/lightning/jingyuan/main
+description: "Opens KQM's resources on Jing Yuan"
+match: ${TRIGGER_PREFIX}(?:jingyuan|jy)(?:\s|$)
+ignoreCase: true

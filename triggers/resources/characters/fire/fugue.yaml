@@ -1,0 +1,4 @@
+interaction: characters/fire/fugue/main
+description: "Opens KQM's resources on Fugue"
+match: ${TRIGGER_PREFIX}(fg|fugue|fugi)(?:\s|$)
+ignoreCase: true
