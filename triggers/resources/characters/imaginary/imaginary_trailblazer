@@ -1,0 +1,4 @@
+interaction: characters/imaginary/imaginary_trailblazer/main
+description: "Opens KQM's resources on Imaginary Trailblazer"
+match: ${TRIGGER_PREFIX}(?:imaginarytrailblazer|imgtb|rememberancetb|rmbtb|rememberancetrailblazer|rtb|itb)(?:\s|$)
+ignoreCase: true

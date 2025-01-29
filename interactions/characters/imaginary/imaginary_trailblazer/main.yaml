@@ -1,0 +1,26 @@
+embeds:
+  - title: Imaginary Trailblazer
+    color: ${ COLORS.IMAGINARY_YELLOW }
+    image: 
+      url: ${INFOGRAPHICS.IMAGINARY_TRAILBLAZER_1}
+    description: |-
+      ★★★★★
+      *Imaginary Rememberance Support*
+    footer:
+      text: "Use \"Open original\" to view full size.\n\nCredits to: euphorysm, ErisDC (Designer) | soul_fish (Content)"
+
+# buttons:
+#   - label: "Guide"
+#     url: "https://hsr.keqingmains.com/imbibitor-lunae/"
+#     emoji: ${ EMOJIS.LOGO }
+#     style: "LINK"
+
+  # - label: "SRL"
+  #   url: "https://srl.keqingmains.com/characters/imaginary/sunday"
+  #   emoji: ${ EMOJIS.MAGNIFY }
+  #   style: "LINK"
+
+  # - label: "Video Guide"
+  #   url: "https://youtu.be/FjDsbxPbk50"
+  #   emoji: ${ EMOJIS.YOUTUBE }
+  #   style: "LINK"

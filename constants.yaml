@@ -43,9 +43,12 @@ INFOGRAPHICS:
   FIRE_TRAILBLAZER_2: "https://hsr.keqingmains.com/wp-content/uploads/2023/12/Crit_Fire_Trailblazer_Infographic_-_euphorysm.png" # CRIT BUILD
   FUGUE_1: "https://hsr.keqingmains.com/wp-content/uploads/2025/01/Fugue_Infographic.png"
   HUOHUO_1: "https://hsr.keqingmains.com/wp-content/uploads/2023/12/Huohuo_Infographic.png"
+  IMAGINARY_TRAILBLAZER_1: "https://hsr.keqingmains.com/wp-content/uploads/2025/01/Rememberance_Trailblazer_-_euphorysm_erisdc.png"
   IMBIBITOR_1: "https://hsr.keqingmains.com/wp-content/uploads/2024/12/Imbibitor_Lunae_Infographic_-_ErisDC.png"
   JINGLIU_1: "https://hsr.keqingmains.com/wp-content/uploads/2024/12/Jingliu_Infographic_-_ErisDC.png"
   JINGYUAN_1: "https://hsr.keqingmains.com/wp-content/uploads/2024/12/Jing_Yuan_Infographic_-_euphorysm.png"
+  LINGSHA_1: "https://hsr.keqingmains.com/wp-content/uploads/2025/01/Lingsha-AoE-Support-Infographic-3.0.png"
+  LINGSHA_2: "https://hsr.keqingmains.com/wp-content/uploads/2025/01/Lingsha-Sustain-Infographic-3.0.png"
   MARCH_1: "https://hsr.keqingmains.com/wp-content/uploads/2023/12/March_Infographic_-_euphorysm.png"
   MISHA_1: "https://hsr.keqingmains.com/wp-content/uploads/2024/02/KQM_Misha_Damage_Dealer_Infographic_-_euphorysm.png" # DMG DEALER
   MISHA_2: "https://hsr.keqingmains.com/wp-content/uploads/2024/02/Misha_Sustain_Infographic_-_euphorysm.png" # SUSTAIN
@@ -70,6 +73,7 @@ ICON:
   CHARACTER_IMBIBITOR: "https://hsr.keqingmains.com/wp-content/uploads/2023/08/Dan_Heng_Imbibitor_Lunae-Rounded.webp"
   CHARACTER_JINGLIU: "https://hsr.keqingmains.com/wp-content/uploads/2023/10/Jingliu-Rounded.webp"
   CHARACTER_JINGYUAN: "https://hsr.keqingmains.com/wp-content/uploads/2023/06/1204.png"
+  CHARACTER_LINGSHA: "https://hsr.keqingmains.com/wp-content/uploads/2025/01/Lingsha.webp"
   CHARACTER_MARCH: "https://hsr.keqingmains.com/wp-content/uploads/2023/05/march7th_icon-1.png"
   CHARACTER_MISHA: "https://hsr.keqingmains.com/wp-content/uploads/2024/02/Misha-rounded.webp"
   CHARACTER_RUANMEI: "https://hsr.keqingmains.com/wp-content/uploads/2024/01/Ruan_Mei-rounded.webp"

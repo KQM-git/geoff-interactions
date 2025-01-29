@@ -1,0 +1,30 @@
+embeds:
+  - title: Lingsha
+    color: ${ COLORS.FIRE_RED }
+    thumbnail:
+      url: ${ICON.CHARACTER_FUGUE}
+    description: |-
+      *The new Cauldron Master of the Xianzhou Luofu's Alchemy Commission is one perceptive and intelligent Vidyadhara healer. With a keen sense of smell, she diagnoses ailments and calms minds with aromatic therapy. Adept at navigating complex social relationships, she can remain impeccably composed even when turmoil rages with.*
+
+options: #dropdown
+  - label: Lingsha AOE Support Infographic
+    value: characters/fire/lingsha/aoe_support
+    description: KQM's resources for AOE Support Lingsha.
+    emoji: ${EMOJIS.LOGO }
+
+  - label: Lingsha Break Sustain Infographic
+    value: characters/fire/lingsha/break_sustain
+    description: KQM's resources for Break Sustain Lingsha.
+    emoji: ${EMOJIS.LOGO }
+
+buttons:
+
+  - label: "Quick Guide"
+    url: "https://hsr.keqingmains.com/q/lingsha-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+#   - label: "SRL"
+#     url: "https://srl.keqingmains.com/characters/quantum/silver-wolf"
+#     emoji: ${ EMOJIS.MAGNIFY }
+#     style: "LINK"
