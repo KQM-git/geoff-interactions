@@ -7,7 +7,7 @@ embeds:
       *The new Cauldron Master of the Xianzhou Luofu's Alchemy Commission is one perceptive and intelligent Vidyadhara healer. With a keen sense of smell, she diagnoses ailments and calms minds with aromatic therapy. Adept at navigating complex social relationships, she can remain impeccably composed even when turmoil rages with.*
 
 options: #dropdown
-  - label: Lingsha AOE Support Infographic
+  - label: Lingsha AoE Support Infographic
     value: characters/fire/lingsha/aoe_support
     description: KQM's resources for AOE Support Lingsha.
     emoji: ${EMOJIS.LOGO }
