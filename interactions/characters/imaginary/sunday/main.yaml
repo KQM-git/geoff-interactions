@@ -1,0 +1,28 @@
+embeds:
+  - title: Sunday
+    color: ${ COLORS.IMAGINARY_YELLOW }
+    image: 
+      url: ${INFOGRAPHICS.SUNDAY_1}
+    thumbnail:
+      url: ${ICON.CHARACTER_SUNDAY}
+    description: |-
+      ★★★★★
+      *Imaginary Harmony Support*
+    footer:
+      text: "Use \"Open original\" to view full size.\n\nCredits to: euphorysm (Designer) | ErisDC (Content)"
+
+buttons:
+  - label: "Guide"
+    url: "https://hsr.keqingmains.com/sunday/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  # - label: "SRL"
+  #   url: "https://srl.keqingmains.com/characters/imaginary/sunday"
+  #   emoji: ${ EMOJIS.MAGNIFY }
+  #   style: "LINK"
+
+  # - label: "Video Guide"
+  #   url: "https://youtu.be/FjDsbxPbk50"
+  #   emoji: ${ EMOJIS.YOUTUBE }
+  #   style: "LINK"
