@@ -1,0 +1,4 @@
+interaction: characters/ice/jingliu/main
+description: "Opens KQM's resources on Jingliu"
+match: ${TRIGGER_PREFIX}(jingliu|jl)(?:\s|$)
+ignoreCase: true

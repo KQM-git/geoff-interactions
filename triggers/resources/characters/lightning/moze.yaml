@@ -1,0 +1,4 @@
+interaction: characters/lightning/moze/main
+description: "Opens KQM's resources on Moze"
+match: ${TRIGGER_PREFIX}moze(?:\s|$)
+ignoreCase: true

@@ -1,0 +1,4 @@
+interaction: characters/quantum/sparkle/main
+description: "Opens KQM's resources on Sparkle/Hanabi"
+match: ${ TRIGGER_PREFIX }(hanabi|sparkle)(?:\s|$)
+ignoreCase: true

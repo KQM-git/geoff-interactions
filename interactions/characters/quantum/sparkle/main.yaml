@@ -1,0 +1,28 @@
+embeds:
+  - title: Sparkle
+    color: ${ COLORS.QUANTUM_BLURPLE }
+    image: 
+      url: ${INFOGRAPHICS.SPARKLE_1}
+    thumbnail:
+      url: ${ICON.CHARACTER_SPARKLE}
+    description: |-
+      ★★★★★
+      *Quantum Harmony Hypercarry Support*
+    footer:
+      text: "Use \"Open original\" to view full size.\n\nCredits to: euphorysm, ErisDC (Designer) | happy_ice_cream (Content)"
+
+buttons:
+  - label: "Guide"
+    url: "https://hsr.keqingmains.com/sparkle/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  # - label: "SRL"
+  #   url: "https://srl.keqingmains.com/characters/quantum/sparkle"
+  #   emoji: ${ EMOJIS.MAGNIFY }
+  #   style: "LINK"
+
+  # - label: "Video Guide"
+  #   url: "https://youtu.be/FjDsbxPbk50"
+  #   emoji: ${ EMOJIS.YOUTUBE }
+  #   style: "LINK"
