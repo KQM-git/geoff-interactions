@@ -1,8 +1,8 @@
 embeds:
-  - title: Ice Trailblazer
+  - title: Rememberance Trailblazer
     color: ${ COLORS.ICE_BLUE }
     image: 
-      url: ${INFOGRAPHICS.ICE_TRAILBLAZER_1}
+      url: ${INFOGRAPHICS.REMEMBERANCE_TRAILBLAZER_1}
     description: |-
       ★★★★★
       *Ice Rememberance Support*
