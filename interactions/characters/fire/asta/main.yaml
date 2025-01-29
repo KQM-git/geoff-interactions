@@ -1,0 +1,28 @@
+embeds:
+  - title: Asta
+    color: ${ COLORS.FIRE_RED }
+    image: 
+      url: ${INFOGRAPHICS.ASTA_1}
+    thumbnail:
+      url: ${ICON.CHARACTER_ASTA}
+    description: |-
+      ★★★★
+      *Fire Harmony Support*
+    footer:
+      text: "Use \"Open original\" to view full size.\n\nCredits to: euphorysm, ErisDC (Designer) | skylarke (Content)"
+
+buttons:
+  - label: "Guide"
+    url: "https://hsr.keqingmains.com/asta/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "SRL"
+    url: "https://srl.keqingmains.com/characters/fire/asta"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"
+
+  # - label: "Video Guide"
+  #   url: "https://youtu.be/FjDsbxPbk50"
+  #   emoji: ${ EMOJIS.YOUTUBE }
+  #   style: "LINK"

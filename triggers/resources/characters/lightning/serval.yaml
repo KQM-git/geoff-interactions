@@ -1,4 +1,4 @@
-interaction: characters/lightning/moze/main
-description: "Opens KQM's resources on Moze"
+interaction: characters/lightning/serval/main
+description: "Opens KQM's resources on Serval"
 match: ${TRIGGER_PREFIX}serval(?:\s|$)
 ignoreCase: true

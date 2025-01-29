@@ -1,0 +1,4 @@
+interaction: characters/fire/asta/main
+description: "Opens KQM's resources on Asta"
+match: ${ TRIGGER_PREFIX }asta(?:\s|$)
+ignoreCase: true
